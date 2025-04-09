@@ -95,23 +95,7 @@ Avoid hitting the limit by:
  ![](./Screenshot/dash05.png)
  ![](./Screenshot/dash06.png)
 
-## 📁 Project Structure
 
-```
-weather-dashboard/
-│
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── App.jsx          # Main component
-│   ├── main.jsx         # Entry point
-│   ├── index.css        # Tailwind imports
-│
-├── .env                 # API keys (not committed)
-├── package.json         # Dependencies & scripts
-├── tailwind.config.js   # Tailwind setup
-├── vite.config.js       # Vite bundler setup
-```
 
 
 
