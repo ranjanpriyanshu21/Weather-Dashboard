@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard App
+# 🌦️ Weather Dashboard
 
 A modern, responsive weather dashboard built with **React**, **Tailwind CSS**, and **OpenWeatherMap API**. It shows real-time weather updates, 5-day forecasts, recent searches, and includes dark mode support and smooth loading states.
 
@@ -88,7 +88,12 @@ Avoid hitting the limit by:
 ---
 ## Screenshots
 ---
-
+ ![](/Screenshots/dash01.jpg)
+ ![](/Screenshots/dash02.jpg)
+ ![](/Screenshots/dash03.jpg)
+ ![](/Screenshots/dash04.jpg)
+ ![](/Screenshots/dash05.jpg)
+ ![](/Screenshots/dash06.jpg)
 
 ## 📁 Project Structure
 
