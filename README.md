@@ -88,12 +88,12 @@ Avoid hitting the limit by:
 ---
 ## Screenshots
 ---
- ![](/Screenshot/dash01.png)
- ![](/Screenshot/dash02.png)
- ![](/Screenshot/dash03.png)
- ![](/Screenshot/dash04.png)
- ![](/Screenshot/dash05.png)
- ![](/Screenshot/dash06.png)
+ ![](./Screenshot/dash01.png)
+ ![](./Screenshot/dash02.png)
+ ![](./Screenshot/dash03.png)
+ ![](./Screenshot/dash04.png)
+ ![](./Screenshot/dash05.png)
+ ![](./Screenshot/dash06.png)
 
 ## 📁 Project Structure
 
